@@ -8,7 +8,6 @@ import { Component } from '@angular/core';
 import { Button } from './shared/models/button';
 
 
-import { User } from './shared/models/user';
 
 @Component({
 	selector: 'my-app',
